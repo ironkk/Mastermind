@@ -1,0 +1,28 @@
+
+#crea_password{
+    
+}
+#resultats>.opc0{
+    border:3px solid red;
+}
+.opc1{
+    background-color: red;
+}
+.opc2{
+    background-color: yellow;
+}
+.opc3{
+    background-color: green;
+}
+.opc4{
+    background-color: black;
+}
+
+.opcions>div,.opc1,.opc2,.opc3,.opc4,.opc0{
+    width: 60px;
+    height: 60px;
+    border: 1px solid blue;
+    border-radius: 45%;
+    display: inline-block;
+    margin: 1px;
+}
